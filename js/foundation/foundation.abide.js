@@ -6,6 +6,17 @@
 
     version : '5.4.5',
 
+   
+   
+   
+    <script src="js/vendor/jquery.js"></script>
+  <script src="js/foundation/foundation.js"></script>
+  <script src="js/foundation/foundation.magellan.js"></script>
+   
+   
+   
+   
+   
     settings : {
       live_validate : true,
       focus_on_invalid : true,
